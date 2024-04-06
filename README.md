@@ -35,7 +35,3 @@ Location: England, United Kingdom
   <img width="600" src="https://wakatime.com/share/@Owen3456/0dd7488f-89e7-4015-8f5f-1962322c1c5a.png" />
 </a>
 </div>
-
-# Repos
-
-- [Owen-3456](https://github.com/Owen-3456/Owen-3456)
