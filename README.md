@@ -2,7 +2,7 @@
 
 Location: England, United Kingdom
 
-# Social:
+# Socials:
 
 <div align="left">
 <a href="https://wakatime.com/@Owen3456">
