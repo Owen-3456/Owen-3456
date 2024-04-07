@@ -1,5 +1,7 @@
 # Owen3456
 
+<a href="https://wakatime.com/@018b4f28-8415-4fbc-a819-b4dd1d7a71be"><img src="https://wakatime.com/badge/user/018b4f28-8415-4fbc-a819-b4dd1d7a71be.svg" alt="Total time coded since Oct 20 2023" /></a>
+
 Location: England, United Kingdom
 
 # Socials:
