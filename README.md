@@ -6,7 +6,7 @@ Location: England, United Kingdom
 
 <div align="left">
 <a href="https://wakatime.com/@Owen3456">
-  <img width="40" src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" />
+  <img width="40" src="https://wakatime.com/static/img/wakatime-white.svg" />
 </a>
 <a href="https://discord.com/users/374960413583998977">
   <img width="40" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" />
@@ -29,5 +29,10 @@ Location: England, United Kingdom
 
 # Stats:
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Owen-3456&show_icons=true&theme=dark" />
+  <a href="https://wakatime.com/@Owen3456">
+    <img width="600" src="https://wakatime.com/share/@Owen3456/9610784e-f5af-477f-bc71-426258bc6114.png"" />
+    <img width="600" src="https://wakatime.com/share/@Owen3456/d791bc97-c2da-4110-8847-adceeb02283e.png" />
+  </a>
+</div>
