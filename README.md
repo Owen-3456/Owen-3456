@@ -31,7 +31,7 @@ Location: England, United Kingdom
 # Stats:
 
 <div align="center">
-    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Owen-3456&show_icons=true&theme=dark" />
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Owen-3456&show_icons=true&theme=github_dark" />
   <a href="https://wakatime.com/@Owen3456">
     <img width="600" src="https://wakatime.com/share/@Owen3456/9610784e-f5af-477f-bc71-426258bc6114.png"" />
     <img width="600" src="https://wakatime.com/share/@Owen3456/8930db36-7848-4b6f-8449-541d13711210.svg" />
