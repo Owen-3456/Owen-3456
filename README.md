@@ -24,12 +24,6 @@
 
 <br><br>
 
-# 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,cloudflare,windows,linux,obsidian,pr,photoshop">
-
-<br><br>
-
 # 📊 Stats
 
 <div align=center>
