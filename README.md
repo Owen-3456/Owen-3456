@@ -2,10 +2,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Owen-3456.Owen-3456">
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=ConsolasRighteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Owen-3456!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ConsolasRighteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Owen!;" />
 </h1>
 <div align="center">
-  <h3>a student from England, UK, learning programming and cybersecurity.</h3>
+  <h3>I'm a student from England, UK, learning programming and cybersecurity.</h3>
   <br> 
   I'm currently working on my <a src="owen3456.xyz">website</a> 🖥️.
   <div align="center">
