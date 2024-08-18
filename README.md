@@ -13,7 +13,7 @@
   My main project at the moment is my personal <a src="owen3456.xyz">website</a> 🖥️.
   <div align="center">
   <br>
-    <a src="https://github.com/Owen-3456/owen3456.xyz">
+    <a href="https://github.com/Owen-3456/owen3456.xyz">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=owen-3456&repo=owen3456.xyz&theme=github_dark&show_owner=true">
     </a>
   </div>
