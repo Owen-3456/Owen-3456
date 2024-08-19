@@ -30,9 +30,13 @@
 # 📊 Stats
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Owen-3456&theme=github_dark&layout=">
+<a href="https://github.com/Owen-3456/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Owen-3456&theme=github_dark&layout=">
+</a>
 <br>
-<a href="https://wakatime.com/@Owen3456"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Owen3456&theme=github_dark&layout=compact"></a>
+<a href="https://wakatime.com/@Owen3456">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Owen3456&theme=github_dark&layout=compact">
+</a>
 </div>
 
 <hr>
