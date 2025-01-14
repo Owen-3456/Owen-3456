@@ -21,7 +21,7 @@
 
 <br><br>
 
-# 🌍 Languages
+# 🗣️ Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,pwsh,py">
 
