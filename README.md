@@ -9,14 +9,6 @@
 </div>
 <div align="center">
   <h3>I'm a student from England, learning programming and cybersecurity.</h3>
-  <br> 
-  My main project at the moment is my personal <a src="owen3456.xyz">website</a> 🖥️.
-  <div align="center">
-  <br>
-    <a href="https://github.com/Owen-3456/owen3456.xyz">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=owen-3456&repo=owen3456.xyz&theme=github_dark&show_owner=true">
-    </a>
-  </div>
 </div>
 
 <br><br>
