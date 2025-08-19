@@ -32,6 +32,10 @@
 </div>
 
 <div align="center">
+  <img src="https://wakatime.com/share/@Owen3456/8b5abeab-e3a3-496d-8c41-7b8d605a6371.svg" alt="Wakatime Chart" />
+</div>
+
+<div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Owen3456&theme=github_dark&layout=compact&hide_border=true" />
 </div>
 
