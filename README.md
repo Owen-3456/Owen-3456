@@ -14,16 +14,6 @@
 
 <br><br>
 
-## 🛠️ Skills and Technologies
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,powershell">
-
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,windows">
-
-<br><br>
-
 ## 📊 Stats & Activity
 
 <div align="center">
@@ -38,6 +28,16 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Owen-3456&theme=github-compact&hide_border=true" />
 </div>
+
+<br><br>
+
+## 🛠️ Skills and Technologies
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,powershell">
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,windows">
 
 <br><br>
 
