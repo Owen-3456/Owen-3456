@@ -6,6 +6,9 @@
   <a href="https://wakatime.com/@018b4f28-8415-4fbc-a819-b4dd1d7a71be">
     <img src="https://wakatime.com/badge/user/018b4f28-8415-4fbc-a819-b4dd1d7a71be.svg" alt="Total time coded since Oct 20 2023" />
   </a>
+  <a href="https://owen3456.xyz">
+    <img src="https://img.shields.io/badge/owen3456.xyz-Visit-blue" alt="Visit" />
+  </a>
 </div>
 
 <div align="center">
